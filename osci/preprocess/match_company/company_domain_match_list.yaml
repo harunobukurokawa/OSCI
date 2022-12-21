@@ -1844,3 +1844,8 @@
   regex:
     - ^.*\.infosys\.com$
   industry: Technology
+- company: Renesas
+  domains:
+    - renesas.com
+  industry: Technology
+  regex:
